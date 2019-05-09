@@ -11,7 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".JSONArrayReqActivity"></activity>
+        <activity android:name=".ZabardastActivity"></activity>
+        <activity android:name=".MajedarActivity" />
+        <activity android:name=".JSONArrayReqActivity" />
         <activity android:name=".JsonObjectRequestActivity" />
         <activity android:name=".SimpleRequestActivity" />
         <activity android:name=".MainActivity">
